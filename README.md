@@ -1,0 +1,4 @@
+myproject
+=========
+
+just for fun
